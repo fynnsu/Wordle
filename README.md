@@ -1,2 +1,3 @@
 # Wordle
-A Unity implementation of wordle
+
+A Unity Implementation of a Wordle App for IOS
